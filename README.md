@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫  Hi 👋, I'm Danish
+<h3 align="center">"Exploring the Unreal Engine Game World & Decentralized Web 3 Realities"</h3>
 🔭 I’m currently working on Web3 Development at Metana Solidity Bootcamp<br><br>🌱 I’m currently learning Unreal Engine Game Development for Cyber Dash (Releasing on Google Playstore soon)<br><br>📫 How to reach me: danishlynx@gmail.com
 
 
