@@ -1,5 +1,5 @@
 # 💫 Blockchain Engineer:
-Hi 👋, I'm Danish<br><br>"Exploring the Unreal Engine Game World & Decentralized Web 3 Realities"
+Hi 👋, I'm Danish<br><br>"Exploring the Decentralized Web 3 Realities"
 
 
 ## 🌐 Socials:
