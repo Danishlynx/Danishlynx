@@ -1,4 +1,4 @@
-# 💫 Blockchain Engineer:
+# 💫 MERN + Blockchain Engineer:
 Hi 👋, I'm Danish<br><br>"Exploring the Decentralized Web 3 Realities"
 
 Live Projects: 
