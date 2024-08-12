@@ -1,6 +1,12 @@
 # 💫 Blockchain Engineer:
 Hi 👋, I'm Danish<br><br>"Exploring the Decentralized Web 3 Realities"
 
+Live Projects: 
+
+1. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
+2. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
+3. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-ali-lynx) 
