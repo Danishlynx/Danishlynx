@@ -6,7 +6,8 @@ Live Projects:
 1. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
 2. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
 3. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
-4. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/
+4. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing). 
+5. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
 
 
 ## 🌐 Socials:
