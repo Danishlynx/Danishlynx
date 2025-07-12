@@ -1,13 +1,16 @@
-# 💫 MERN + Blockchain Engineer:
-Hi 👋, I'm Danish<br><br>"Exploring the Decentralized Web 3 Realities"
+# 💫 Software Engineer
+Hi 👋, I'm AWS Certified Full-Stack Developer with 1.5 years of experience building scalable web applications using React.js,
+ Next.js, and Node.js. Proven track record of improving system performance by 20-40% and implementing automated
+ deployment pipelines. Currently pursuing MSc in Advanced Computer Science at University of Manchester while bringing
+ expertise in cloud architecture, RESTful API design, and blockchain development
 
 Live Projects: 
 
-1. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
-2. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
-3. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
-4. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
-5. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
+1. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
+2. 2. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
+3. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
+4. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
+5. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
 6. ESBMC_enhanced with parallel execution of z3, yices, cvc5 & boolector: https://github.com/Danishlynx/esbmc_parallelSMT_exec.git
 
 
