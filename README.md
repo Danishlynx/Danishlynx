@@ -7,7 +7,7 @@ Hi 👋, I'm AWS Certified Full-Stack Developer with 1.5 years of experience bui
 Live Projects: 
 
 1. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
-2. 2. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
+2. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
 3. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
 4. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
 5. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
