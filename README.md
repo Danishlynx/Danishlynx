@@ -1,36 +1,81 @@
-# 💫 Software Engineer:
-Focused on distributed systems and CI/CD automation. 18 months shipping micro‑services on AWS/Kubernetes; chaos‑engineering work lifted prod p95 availability to 99.5 %. Currently pursuing an M.Sc. in Advanced Computer Science (Distinction expected) at the University of Manchester to deepen technical knowledge and leadership in cutting-edge technologies. UK work‑authorized
 
-Live Projects: 
+<!--
+  README.md – Danish Ali
+  Professional Profile (generated 2025‑07‑21)
+-->
 
-1. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
-2. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
-3. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
-4. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
-5. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
-6. ESBMC_enhanced with parallel execution of z3, yices, cvc5 & boolector: https://github.com/Danishlynx/esbmc_parallelSMT_exec.git
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-ali-lynx) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Danishlynx&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Danishlynx&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishlynx&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Danishlynx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h1 align="center">Danish Ali&nbsp;·&nbsp;Cloud&nbsp;Reliability&nbsp;Engineer</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6500604/210117299-e1f1616e-2529-4d1b-bb4d-8e934ad5c3b9.svg" height="22"/> Fault‑Tolerant Platforms • K8s Automation • Web3 Engineering<br/>
+  <strong>MSc Advanced Computer Science, University of Manchester (Distinction Pending)</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Danishlynx&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ Snapshot
+
+- **18 months** shipping customer‑facing micro‑services on **AWS EKS** (70+ pods, 15 nodes, multi‑AZ).
+- **Chaos engineering programme** – P95 availability boosted **96.8 % ➜ 99.5 %**; uncovered 23 latent defects pre‑prod.
+- **60 % faster deploys** after re‑architecting CI/CD with GitHub Actions, Argo CD and automated canary rollouts.
+- MSc research on **event‑driven resilience patterns** for large‑scale systems (publication under peer review).
+
+## 🌟 Engineering Principles
+
+> “Software should **degrade**, not **detonate**.”
+>
+> – My guiding mantra for resilient design.
+
+1. Automate the boring and **simulate the disaster**.
+2. Observability is a feature, not a luxury.
+3. Infrastructure as Code should be **auditable & reproducible**.
+
+## 🚀 Selected Work
+
+| &nbsp; | Project | Contribution | Stack | Demo |
+|---|---|---|---|---|
+| 🏠 | **Property Pulse** | Tenant‑centric rental SaaS with instant Stripe payouts | Next.js · Prisma · Postgres · Stripe | [Live ↗︎](https://next-js-property-pulse-chi.vercel.app/) |
+| 🛒 | **ProShop** | Distributed e‑commerce micro‑service with event sourcing | MERN · RabbitMQ · PayPal | [Live ↗︎](https://mern-proshop-1-ce3l.onrender.com/) |
+| 📈 | **Ethereum Charts** | Real‑time blockchain analytics dashboard | React · Web3.js · D3 | [Live ↗︎](https://charts-using-ethereum-api-285h.vercel.app/) |
+| 🔐 | **Proxy Smart Wallet** | Gas‑optimised contract‑wallet with guardianship recovery | Solidity · ethers.js · Hardhat | [Live ↗︎](https://proxy-smart-wallet-with-frontend.vercel.app/) |
+| 🎨 | **NFT Marketplace ERC‑1155** | On‑chain lazy‑mint marketplace with IPFS storage | Next.js · Solidity · IPFS | [Live ↗︎](https://erc-1155-nft-marketplace.vercel.app/) |
+
+## 🛠️ Toolbox
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+## 📜 Certifications
+
+- AWS Certified Developer – Associate (2024)
+- HashiCorp Terraform Associate (003) (2024)
+
+## 📣 Talks & Publications
+
+- **2025** – “Chaos as a Culture” – DevOps Manchester, UK.
+- **2024** – “Parallel SMT in ESBMC” – Formal Methods Symposium, Lisbon.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danishlynx&theme=github_dark&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danishlynx&theme=github_dark&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Danishlynx&theme=tokyonight&margin-w=6&no-frame=true" alt="GitHub trophies"/>
+</p>
+
+## 🤝 Connect
+
+<a href="https://linkedin.com/in/danish-ali-lynx"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:contact@danishlynx.dev"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<!-- Visitor counter (optional) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=Danishlynx&icon=0&color=12)](https://visitcount.itsvg.in) -->
