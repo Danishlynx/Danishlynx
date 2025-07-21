@@ -1,8 +1,5 @@
-# 💫 Software Engineer
-Hi 👋, I'm AWS Certified Full-Stack Developer with 1.5 years of experience building scalable web applications using React.js,
- Next.js, and Node.js. Proven track record of improving system performance by 20-40% and implementing automated
- deployment pipelines. Currently pursuing MSc in Advanced Computer Science at University of Manchester while bringing
- expertise in cloud architecture, RESTful API design, and blockchain development
+# 💫 Software Engineer:
+Focused on distributed systems and CI/CD automation. 18 months shipping micro‑services on AWS/Kubernetes; chaos‑engineering work lifted prod p95 availability to 99.5 %. Currently pursuing an M.Sc. in Advanced Computer Science (Distinction expected) at the University of Manchester to deepen technical knowledge and leadership in cutting-edge technologies. UK work‑authorized
 
 Live Projects: 
 
