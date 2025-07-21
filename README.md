@@ -1,46 +1,36 @@
+# 💫 Software Engineer:
+Focused on distributed systems and CI/CD automation. 18 months shipping micro‑services on AWS/Kubernetes; chaos‑engineering work lifted prod p95 availability to 99.5 %. Currently pursuing an M.Sc. in Advanced Computer Science (Distinction expected) at the University of Manchester to deepen technical knowledge and leadership in cutting-edge technologies. UK work‑authorized
 
-<h1 align="center">Hi, I’m <strong>Danish Ali</strong> 👋</h1>
-<p align="center">
-  Software Engineer · MSc Advanced Computer Science (University of Manchester, Distinction expected)<br/>
-  Focused on distributed systems, Kubernetes and CI/CD automation.<br/>
-  18 months running micro‑services on AWS + EKS; chaos‑engineering work drove production P95 availability from 96.8 % → <strong>99.5 %</strong>.
-</p>
+Live Projects: 
+
+1. NextJS: full-featured Property Rental platform : [https://mern-proshop-1-ce3l.onrender.com/](https://next-js-property-pulse-chi.vercel.app/)
+2. MERN: full-featured eCommerce platform : https://mern-proshop-1-ce3l.onrender.com/ (This might take 50 seconds to load, because of render free tier computing)
+3. Ethereum Live Charts: https://charts-using-ethereum-api-285h.vercel.app/
+4. Proxy Smart Wallet: https://proxy-smart-wallet-with-frontend.vercel.app/
+5. NFT Marketplace ERC1155: https://erc-1155-nft-marketplace.vercel.app/
+6. ESBMC_enhanced with parallel execution of z3, yices, cvc5 & boolector: https://github.com/Danishlynx/esbmc_parallelSMT_exec.git
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-ali-lynx) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Danishlynx&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Danishlynx&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishlynx&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Danishlynx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Danishlynx&icon=0&color=12)](https://visitcount.itsvg.in)
 
-### 🔭 Current Focus
-- Completing master’s thesis on **fault‑tolerant event‑driven architectures**.
-- Scaling <a href="https://github.com/Danishlynx/esbmc_parallelSMT_exec">ESBMC Parallel SMT</a> to accelerate formal verification.
-- Mentoring junior devs on clean GitHub workflows & infrastructure‑as‑code.
-
-### 🚀 Featured Projects
-| Project | Tech | Demo |
-|---------|------|------|
-| **Property Pulse** – property‑rental SaaS | Next.js · Prisma · Postgres · Stripe | <a href="https://next-js-property-pulse-chi.vercel.app/">Live ↗︎</a> |
-| **ProShop** – e‑commerce micro‑service | MERN · Redux · PayPal | <a href="https://mern-proshop-1-ce3l.onrender.com/">Live ↗︎</a> |
-| **Ethereum Live Charts** | React · Web3.js · D3 | <a href="https://charts-using-ethereum-api-285h.vercel.app/">Live ↗︎</a> |
-| **Proxy Smart Wallet** | Solidity · ethers.js · Hardhat | <a href="https://proxy-smart-wallet-with-frontend.vercel.app/">Live ↗︎</a> |
-| **ERC‑1155 NFT Marketplace** | Next.js · Solidity · IPFS | <a href="https://erc-1155-nft-marketplace.vercel.app/">Live ↗︎</a> |
-
-### 🛠️ Tech Toolbox
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danishlynx&theme=react&hide_border=true&show_icons=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danishlynx&theme=react&hide_border=true" alt="GitHub streak" />
-</p>
-
-### ✉️ Connect with Me
-<a href="https://linkedin.com/in/danish-ali-lynx"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<!--   Visitor badge optionally
-[![](https://visitcount.itsvg.in/api?id=Danishlynx&icon=0&color=12)](https://visitcount.itsvg.in) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
