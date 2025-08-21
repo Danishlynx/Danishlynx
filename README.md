@@ -1,7 +1,7 @@
 <!-- README.md – Danish Ali (updated 2025‑07‑21) -->
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <strong>Danish Ali</strong></h1>
-<p align="center">Reliability Engineer · Cloud Native · Web3&nbsp;Builder</p>
+<p align="center">Reliability Engineer · Cloud Native · Web&nbsp;Builder</p>
 <p align="center"><em>Making distributed systems behave since 2023</em></p>
 
 <p align="center">
