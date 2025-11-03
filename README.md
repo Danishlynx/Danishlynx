@@ -1,8 +1,8 @@
 <!-- README.md – Danish Ali (updated 2025‑07‑21) -->
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <strong>Danish Ali</strong></h1>
-<p align="center">Reliability Engineer · Cloud Native · Web&nbsp;Builder</p>
-<p align="center"><em>Making distributed systems behave since 2023</em></p>
+<p align="center">Software Engineer</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Danishlynx&style=flat&color=brightgreen"/>
@@ -14,9 +14,7 @@
 
 ## 🚀 Snapshot
 
-- 18 months operating micro‑services on **AWS EKS** (multi‑AZ).  
-- Launched chaos‑engineering suite → P95 uptime **99.5 %**.  
-- **60 % faster** deploys via GitHub Actions → Argo CD → canary.
+Full-Stack + AI Software Engineer with 18+ months building scalable web applications and intelligent microservices. Expertise in React, Node.js, Python/FastAPI, and AI orchestration (CrewAI, multi-agent systems) with strong API development and database optimization experience. Authorized to work in the UK.
 
 ## 🛠️ Tech Toolbox
 <p align="center">
