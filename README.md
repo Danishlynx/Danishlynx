@@ -24,7 +24,7 @@ Full-Stack + AI Software Engineer with 18+ months building scalable web applicat
 ## 🌟 Projects
 | | Name | What I built | Stack | Live |
 |:-:|---|---|---|---|
-| 🏠 | **Property Pulse** | Rental SaaS with real‑time availability & instant payouts | Next.js · Prisma · Postgres · Stripe | [Demo](https://next-js-property-pulse-chi.vercel.app/) |
+| 🏠 | **Singleton** |Provably-fair, no-oversell allocation of scarce slots, on Amazon Aurora DSQL | [Demo]([https://next-js-property-pulse-chi.vercel.app/](https://singleton-six.vercel.app/)) |
 | 🛒 | **ProShop** | Event‑sourced e‑commerce micro‑service | MERN · RabbitMQ · PayPal | [Demo](https://mern-proshop-1-ce3l.onrender.com/) |
 | 📈 | **Ethereum Charts** | Real‑time chain analytics dashboard | React · Web3.js · D3 | [Demo](https://charts-using-ethereum-api-285h.vercel.app/) |
 | 🔐 | **Proxy Wallet** | Gas‑optimised smart‑wallet with guardian recovery | Solidity · Hardhat · ethers.js | [Demo](https://proxy-smart-wallet-with-frontend.vercel.app/) |
