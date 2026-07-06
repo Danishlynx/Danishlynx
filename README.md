@@ -24,7 +24,8 @@ Full-Stack + AI Software Engineer with 18+ months building scalable web applicat
 ## 🌟 Projects
 | | Name | What I built | Stack | Live | 
 |:-:|---|---|---|---|
-| 🏠 | **Singleton** |Provably-fair, no-oversell allocation of scarce slots, on Amazon Aurora DSQL | Aurora DSQL · Next.js 15 · TypeScript · Vercel · v0 | [Demo](https://next-js-property-pulse-chi.vercel.app/](https://singleton-six.vercel.app/ ) |
+| 🏠 | **Singleton** | Provably-fair, no-oversell allocation of scarce slots, on Amazon Aurora DSQL | Aurora DSQL · Next.js 15 · TypeScript · Vercel · v0 | [Demo](https://singleton-six.vercel.app/) |
+| ⚡ | **AMD GPU Kernels** | AMD × GPU MODE E2E Model Speedrun — Phase 1 (🥇 1st overall) | Triton · ROCm/HIP · AITER · FlyDSL · Python | [Repo](https://github.com/Danishlynx/gpuMode_Kernal) |
 | 🛒 | **Web Information Decay Research** | Quantifying the Degradation of Web Archival Quality Across Modern Platform Architectures | Playwright . Python . WaybackMachine | [Demo](https://github.com/Danishlynx/web_information_decay_research ) |
 | 📈 | **Ethereum Charts** | Real‑time chain analytics dashboard | React · Web3.js · D3 | [Demo](https://charts-using-ethereum-api-285h.vercel.app/) |
 | 🔐 | **Proxy Wallet** | Gas‑optimised smart‑wallet with guardian recovery | Solidity · Hardhat · ethers.js | [Demo](https://proxy-smart-wallet-with-frontend.vercel.app/) |
