@@ -14,7 +14,7 @@
 
 ---
 
-I build systems that check their own work — deterministic simulations with server-side replay, allocation with zero-oversell stress proofs, agent output gated by linters and real browsers. Previously at **Energy Web** and **AAK Tele-Science**. Open to software engineer roles in the UK.
+I build systems that check their own work-deterministic simulations with server-side replay, allocation with zero-oversell stress proofs, agent output gated by linters and real browsers. Previously at **Energy Web** and **AAK Tele-Science**. Open to software engineer roles in the UK.
 
 ## Open source — DataHub core
 
