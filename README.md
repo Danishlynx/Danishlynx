@@ -18,21 +18,23 @@ I build systems that check their own work-deterministic simulations with server-
 
 ## Open source: DataHub core
 
-Designed and shipped incident support for ML entities (models, features, feature tables) and keyless Snowflake authentication in [DataHub](https://github.com/datahub-project/datahub) (12k+ ⭐). 7 PRs merged across the metadata model, GraphQL API, React UI and Python ingestion connectors.
+Designed and shipped incident support for ML entities (models, features, feature tables) and keyless Snowflake authentication in [DataHub](https://github.com/datahub-project/datahub) (12k+ ⭐). 8 PRs merged across the metadata model, GraphQL API, React UI and Python ingestion connectors.
 
 | Status | Contribution |
 |---|---|
 | **Accepted** | [RFC #18911](https://github.com/datahub-project/datahub/issues/18911): its per-layer analysis of how entity support drifts was adopted as the maintainers' "gates" roadmap model |
 | **Merged** | [#19112](https://github.com/datahub-project/datahub/pull/19112) · [#19132](https://github.com/datahub-project/datahub/pull/19132) · [#19367](https://github.com/datahub-project/datahub/pull/19367): ML incidents across the metadata model, GraphQL API, authorization policies, React UI and MCP tooling |
 | **Merged** | [#19889](https://github.com/datahub-project/datahub/pull/19889): Snowflake workload identity federation, so ingestion on AWS, Azure or GCP logs in with its own cloud identity and stores no password or key. Verified live on AWS |
+| **Merged** | [#19540](https://github.com/datahub-project/datahub/pull/19540): structured property text that contains a URN no longer crashes the entity page |
 | **Merged** | [#19539](https://github.com/datahub-project/datahub/pull/19539): one undecryptable secret no longer fails the whole batch, backported by maintainers into the v1.6.0.3 release · [#19278](https://github.com/datahub-project/datahub/pull/19278) · [#19537](https://github.com/datahub-project/datahub/pull/19537): a CI flake fix and API docs corrections |
-| **Approved** | [#19540](https://github.com/datahub-project/datahub/pull/19540): structured property text that contains a URN no longer crashes the entity page |
 | **In review** | [#19627](https://github.com/datahub-project/datahub/pull/19627): health status for ML entities in lineage, search and entity pages · [#19879](https://github.com/datahub-project/datahub/pull/19879): platform instance support for Superset and Preset |
-| **In review** | Fixes for two CI flakes root-caused from logs alone: a concurrency race and a mistuned performance gate |
+| **In review** | [#19629](https://github.com/datahub-project/datahub/pull/19629): a CI test that fails when incident support disagrees between the write, summary and GraphQL read layers, picked up at the maintainer's suggestion · fixes for two CI flakes root-caused from logs alone: a concurrency race and a mistuned performance gate |
 
 > Maintainer, on closing the RFC: *"full support across data model, API, UI, and MCP."*
 >
 > Snowflake auth maintainer, approving #19889: *"I broke each new guard on purpose again [...], and a test caught every one."*
+>
+> Maintainer, approving #19540: *"nice fix and a really clear writeup."*
 
 ## Projects
 
